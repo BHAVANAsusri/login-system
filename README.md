@@ -1,4 +1,3 @@
-# login-system
 # Login System Project
 
 A basic login system that connects frontend input (username and password) with a backend (Node.js/Express) and stores data in MongoDB.
